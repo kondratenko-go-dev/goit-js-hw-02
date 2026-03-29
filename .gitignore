@@ -1,3 +1,12 @@
+# PhpStorm / IntelliJ IDEA
+.idea/
+*.iml
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+
 # Logs
 logs
 *.log
